@@ -19,7 +19,7 @@ If you want to buy Schilling in Euro (or Dollar) find someone with Schilling on 
 
 ### Mine New Schilling
 
-If you want to mine new Schilling - you are welcome. "Clear", that is, audit and double-check the transactions in the /inbox folder with the accounts in the blockchain. Bundle up the transactions (four at a time for now)
+If you want to mine new Schilling - you are welcome. "Clear", that is, audit and double-check the transactions in the /inbox folder with the accounts on the blockchain. Bundle up the transactions (four at a time for now)
 in a new block and add it to the blockchain. 
 For your work you will get rewarded with newly minted 10 Schilling! Schilling! Schilling! Start mining!
 
