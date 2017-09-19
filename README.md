@@ -12,7 +12,7 @@ If you have Schilling on the blockchain you can send Schilling to anyone. Add a 
 from: maria, to: adam, amount: 4
 ```
 
-### Buying Schilling with Euros / Dollars / Yen / etc.
+### Buy Schilling with Euros / Dollars / Yen / etc.
 
 If you want to buy Schilling in Euro (or Dollar) find someone with Schilling on the blockchain! Try the [next Vienna.js meetup in sektorfuenf](https://meetup.com/viennajs/events/236300243). We will auction off 1000 Schilling! 
 
