@@ -17,17 +17,13 @@ from: maria, to: adam, amount: 4
 If you want to buy Schilling in Euro (or Dollar) find someone with Schilling on the blockchain! Try the [next Vienna.js meetup in sektorfuenf](https://meetup.com/viennajs/events/236300243). We will auction off 1000 Schilling! 
 
 
-### Minining - Mine New Schilling
+### Mine New Schilling
 
 If you want to mine new Schilling - you are welcome. "Clear", that is, audit and double-check the transactions in the /inbox folder with the accounts in the blockchain. Bundle up the transactions (four at a time for now)
-in a new block and add it to the blockchain.  
+in a new block and add it to the blockchain. 
 For your work you will get rewarded with newly minted 10 Schilling! Schilling! Schilling! Start mining!
 
 
 ## What's a Blockchain?
-
-> A blockchain is a distributed database
-> with a linked list (that is, chain) of blocks of transaction records 
-> secured by crypto(graphic) hashes.
 
 See the [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains) page for more.
