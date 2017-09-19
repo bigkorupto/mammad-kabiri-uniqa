@@ -1,0 +1,11 @@
+---
+index         : 2
+timestamp     : 2017-09-19 11:17:59
+previous_hash : eb8ecbf6d5870763ae246e37539d82e37052cb32f88bb8c59971f9978e437743
+hash          : be50017ee4bbcb33844b3dc2b7c4e476d46569b5df5762d14ceba9355f0a85f4
+---
+
+from: sissi, to: eva, amount: 20
+from: sepp, to: maria, amount: 17
+from: franz, to: sissi, amount: 3
+from: sepp, to: ferdl,  amount: 100
