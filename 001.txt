@@ -1,0 +1,11 @@
+---
+index         : 1
+timestamp     : 2017-09-19 10:15:38
+previous_hash : edbd4e11e69bc399a9ccd8faaea44fb27410fe8e3023bb9462450a0a9c4caa1b
+hash          : eb8ecbf6d5870763ae246e37539d82e37052cb32f88bb8c59971f9978e437743
+---
+
+from: grossklockner, to: sepp, amount: 3798
+from: grossvenediger, to: franz, amount: 3666
+from: dachstein, to: sissi,  amount: 2995
+from: wildspitze, to: maria, amount. 3768
