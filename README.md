@@ -2,6 +2,26 @@
 # Schilling  :moneybag::moneybag::moneybag: on the Blockchain! - Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria  
 
 
+## Transactions (Hyper) Ledger Book
+
+| From                | To               | Amount  |
+|---------------------|------------------|--------:|
+| Grossklockner (†)   | Sepp             |    3798 |
+| Grossvenediger (†)  | Franz            |    3666 |
+| Dachstein (†)       | Sissi            |    2995 |
+| Wildspitze (†)      | Maria            |    3768 |
+|                     |                  |         |
+| Sissi               | Eva              |     20  |
+| Sepp                | Maria            |     17  |
+| Franz               | Sissi            |      3  |
+| Sepp                | Ferdl            |    100  |
+|                     |                  |         |
+| Franz               | Max              |     17  |
+| Maria               | Adam             |      4  |
+
+(†): Miner Transaction - New Schilling on the Market!
+
+
 ## How does it work?
 
 ### Payments in Schilling
@@ -24,35 +44,16 @@ in a new block and add it to the blockchain.
 For your work you will get rewarded with newly minted 10 Schilling! Schilling! Schilling! Start mining!
 
 
-## What's a Blockchain?
-
-See the [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains) page for more.
-
-
-## Transactions (Hyper) Ledger Book
-
-| From                | To               | Amount  |
-|---------------------|------------------|--------:|
-| Grossklockner (†)   | Sepp             |    3798 |
-| Grossvenediger (†)  | Franz            |    3666 |
-| Dachstein (†)       | Sissi            |    2995 |
-| Wildspitze (†)      | Maria            |    3768 |
-|                     |                  |         |
-| Sissi               | Eva              |     20  |
-| Sepp                | Maria            |     17  |
-| Franz               | Sissi            |      3  |
-| Sepp                | Ferdl            |    100  |
-|                     |                  |         |
-| Franz               | Max              |     17  |
-| Maria               | Adam             |      4  |
-
-(†): Miner Transaction - New Schilling on the Market!
-
 
 
 ## Alternatives
 
 Anyone? Show us your schilling on the blockchain examples!
+
+
+## What's a Blockchain?
+
+See the [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains) page for more.
 
 
 ## License
