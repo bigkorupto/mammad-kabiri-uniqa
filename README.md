@@ -1,5 +1,5 @@
 
-# Schilling on the Blockchain! - Public Distributed (Hyper) Ledger - Rock-Solid Alpine Dollar from Austria  
+# Schilling  :moneybag::moneybag::moneybag: on the Blockchain! - Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria  
 
 
 ## How does it work?
@@ -9,21 +9,55 @@
 If you have Schilling on the blockchain you can send Schilling to anyone. Add a new transaction record to the /inbox folder. For example:
 
 ```
-from: maria, to: adam, amount: 4
+from: Maria      to: Adam     amount: 4
 ```
 
 ### Buy Schilling with Euros / Dollars / Yen / etc.
 
-If you want to buy Schilling in Euro (or Dollar) find someone with Schilling on the blockchain! Try the [next Vienna.js meetup in sektorfuenf](https://meetup.com/viennajs/events/236300243). We will auction off 1000 Schilling! 
+If you want to buy Schilling in Euro (or Dollar) find someone with Schilling on the blockchain! Try the [next Vienna.js meetup in sektorfuenf](https://meetup.com/viennajs/events/236300243). We will auction off 1000 Schilling!
 
 
 ### Mine New Schilling
 
 If you want to mine new Schilling - you are welcome. "Clear", that is, audit and double-check the transactions in the /inbox folder with the accounts on the blockchain. Bundle up the transactions (four at a time for now)
-in a new block and add it to the blockchain. 
+in a new block and add it to the blockchain.
 For your work you will get rewarded with newly minted 10 Schilling! Schilling! Schilling! Start mining!
 
 
 ## What's a Blockchain?
 
 See the [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains) page for more.
+
+
+## Transactions (Hyper) Ledger Book
+
+| From                | To               | Amount  |
+|---------------------|------------------|--------:|
+| Grossklockner (†)   | Sepp             |    3798 |
+| Grossvenediger (†)  | Franz            |    3666 |
+| Dachstein (†)       | Sissi            |    2995 |
+| Wildspitze (†)      | Maria            |    3768 |
+|                     |                  |         |
+| Sissi               | Eva              |     20  |
+| Sepp                | Maria            |     17  |
+| Franz               | Sissi            |      3  |
+| Sepp                | Ferdl            |    100  |
+|                     |                  |         |
+| Franz               | Max              |     17  |
+| Maria               | Adam             |      4  |
+
+(†): Miner Transaction - New Schilling on the Market!
+
+
+
+## Alternatives
+
+Anyone? Show us your schilling on the blockchain examples!
+
+
+## License
+
+![](https://publicdomainworks.github.io/buttons/zero88x31.png)
+
+The schilling on the blockchain transactions and scripts are dedicated to the public domain.
+Use it as you please with no restrictions whatsoever.

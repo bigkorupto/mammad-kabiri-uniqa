@@ -1,1 +1,0 @@
-from: maria, to: adam, amout: 4
