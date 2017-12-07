@@ -34,7 +34,7 @@ from: Maria      to: Adam     amount: 4
 
 ### Buy Schilling with Euros / Dollars / Yen / etc.
 
-If you want to buy Schilling in Euro (or Dollar) find someone with Schilling on the blockchain! Try the [next Vienna.js meetup in sektorfuenf](https://meetup.com/viennajs/events/236300243). We will auction off 1000 Schilling!
+If you want to buy Schilling in Euro (or Dollar) find someone with Schilling on the blockchain! Try the [next Vienna.rb meetup](https://meetup.com/vienna-rb/events/245432241). We will auction off 1000 Schilling!
 
 
 ### Mine New Schilling
