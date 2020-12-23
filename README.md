@@ -1,8 +1,8 @@
 # The Strange Case of Mammad Kabiri @ Uniqa Software Service
 
 "You are fired!", said the letter delivered by postal mail.
-Mammad Kabiri - the Department head and chief of no-container services
-has'nt called since the beginning of the first corona lockdown in March
+Mammad Kabiri - the Department head and chief of no-container services -
+hasn't called since the beginning of the first corona lockdown in March
 and the closing of the office.
 
 "Call Mammad Kabiri", said the letter, 
