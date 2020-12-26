@@ -29,7 +29,7 @@ to get back my personal belongings (many books, and more)
 and clear out my pre-corona / covid-19 era desk.
 
 Georg Gfrerer continues "Now listen boy, here's the deal. You bring along 
-the office computer from your home office and we let you in to get your books."
+the companies' computer from your home office and we let you in to get your books."
 
 "No computer. No books. Do you copy?" 
 
