@@ -17,7 +17,7 @@ The reason for getting fired:  "You do NOT respond to phone calls!"
   o o o
 
 Three month later (on December 21st, 9am) the first phone call from management. Georg Gfrerer - 
-the Division head and chief no-code pega bullshiter is on the line.
+the Division head and chief no-code pega bullshitter is on the line.
 
 "You haven't worked in the seven months out of your home office at all! No code! 
 You want us to pay you for three more months as is the law and custom in Austria?
