@@ -49,7 +49,7 @@ about the latest change to the Microsoft Windows 10 office desktop.
 
 
 Mammad Kabiri is a proud member of the (career boosting) working group responsible
-to manage the world's most secure Microsoft Windows desktop - as advertised by the companies' service arm in trade magazines in Austria - 
+to manage the world's most secure Microsoft Windows desktop - as advertised (and self-proclaimed) by the companies' service arm in trade magazines in Austria - 
 that can be summed up:  "No rights. No downloads. No installations. No container. No code."   (And yes, if you ask Internet Explorer is our one and only web browser).
  
 
