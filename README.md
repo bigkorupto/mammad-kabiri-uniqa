@@ -42,6 +42,44 @@ you are a big important man."
 "No computer. No books. Do you copy? This is private property you're stealing! I send you the police.
 Your book pick up is called off", and the call is over. 
 
+  o o o
+
+In February Pre-Corona / Covid-19 Mammad Kabiri sends out an email to all coders
+about the latest change to the Microsoft Windows 10 office desktop.
+
+
+Mammad Kabiri is a proud member of the (career boosting) working group responsible
+to manage the world's most secure Microsoft Windows desktop - as advertised by the companies' service arm in trade magazines in Austria - 
+that can be summed up:  "No rights. No downloads. No installations. No container. No code." 
+ 
+
+Before:  If you are a priviledged coder you are granted privilege access to a "magic" network share drive.
+In this "magic" network share drive you can download / upload programs for installation
+on your secure desktop. 
+
+If you were lucky that round-about way was the only way to get programs needed for work installed on your secure desktop - 
+- with a here be dragons warning that the "magic" net share installation 
+may work or may not - you are on your own, please do NOT ask for any support or help.
+
+
+After:  Policy change! The full-time on-staff security team has been watching this "magic" network share drive for a long time
+with big, big worries.
+
+Going forward the priviledged coders have no longer write access to the "magic" network share drive.
+If you want to try your luck on installing a program that you think you need for work you 
+can now download / upload programs to a new "inbox" network share drive.
+
+Once a week the security staff tries to have a looksie and if it is your lucky day will move 
+the programm for installation to the "magic" network share drive.
+
+
+I talk to and send a mail to Mammad Kabiri in protest (and cancel my upcoming in two weeks in-house coding workshop
+for the coder colleagues that I volunteered no less - without installations to get started what can I do? No code is the future of software.).
+ 
+Mammad Kabiri's answer summed up:  Please, shut up. You can leave any time. The sooner the better.  
+Thank you! I canceled your room booking and workshop event!
+
+
 
 
 To be continued...
