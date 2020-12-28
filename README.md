@@ -70,7 +70,7 @@ If you want to try your luck on installing a program that you think you need for
 can now download / upload programs to a new "inbox" network share drive.
 
 Once a week the security staff tries to have a looksie and if it is your lucky day will move 
-the programm for installation to the "magic" network share drive.
+the program for installation to the "magic" network share drive.
 
 
 I talk to and send a mail to Mammad Kabiri in protest (and cancel my upcoming in two weeks in-house coding workshop
