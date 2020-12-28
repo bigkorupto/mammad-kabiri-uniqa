@@ -50,7 +50,7 @@ about the latest change to the Microsoft Windows 10 office desktop.
 
 Mammad Kabiri is a proud member of the (career boosting) working group responsible
 to manage the world's most secure Microsoft Windows desktop - as advertised by the companies' service arm in trade magazines in Austria - 
-that can be summed up:  "No rights. No downloads. No installations. No container. No code." 
+that can be summed up:  "No rights. No downloads. No installations. No container. No code."   (And yes, if you ask Internet Explorer is our one and only web browser).
  
 
 Before:  If you are a priviledged coder you are granted privilege access to a "magic" network share drive.
@@ -58,7 +58,7 @@ In this "magic" network share drive you can download / upload programs for insta
 on your secure desktop. 
 
 If you were lucky that round-about way was the only way to get programs needed for work installed on your secure desktop - 
-- with a here be dragons warning that the "magic" net share installation 
+with a here be dragons warning that the "magic" net share installation 
 may work or may not - you are on your own, please do NOT ask for any support or help.
 
 
