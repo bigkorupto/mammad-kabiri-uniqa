@@ -55,7 +55,7 @@ writes back Wolfgang Küchl - the head of the personnel department.
 
 On the back channel the full-time works council employee writes back:
 
-"I can definitely absolutely for sure tell you nothing about your letter! Leave me alone!"
+"I can definitely absolutely for sure tell you nothing about your letter! May I suggest therapy and looking for professional help. Leave me alone!"
 
 
 In the email I typed in the letter at the end - reading:
@@ -87,7 +87,7 @@ Back in September 2020 Mr Küchl fired
 off the "You are fired!" email and sent a registered postal letter
 without calling or even sending me an email to ask
 what's going on.     The made-up cause: I didn't respond to a forwarded email within a week
-from the personnel department on the state of my working hours in the booking system.
+from the personnel department on the state of my working hours in the companies' time booking system.
 Now two weeks have passed and Mr. Küchl hasn't answered (or responded to phone calls).
 
 
