@@ -124,7 +124,7 @@ Thank you. Your former 10+-year loyal servant."
 
 Nothing. Nada. Silence.
  
-Back in September Mr Küchl fired
+Back in September 2020 Mr Küchl fired
 off the "You are fired!" email and sent a registered postal letter
 without calling or even sending me an email to ask
 what's going on.     The assumed cause: I didn't respond to a forwarded email within a week
