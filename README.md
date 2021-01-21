@@ -82,4 +82,55 @@ Thank you! I canceled your room booking and workshop event!
 
 
 
+  o o o
+
+Four month later (on January 20th, 2021):
+
+
+"I am in the home office! I have got no mail! What registered postal letter are you talking about?"
+
+writes back Wolfgang Küchl - the head of the personnel department.
+
+"Tell me the addressee and I have a looksie."
+
+
+On the back channel the full-time works council employee writes back:
+
+"I can definitely absolutely for sure tell you nothing about your letter! Leave me alone!"
+
+
+In the email I typed in the letter at the end - reading:
+
+    REGISTERED LETTER
+    To: UNIQA IT Services
+
+
+I write back:
+
+"Dear Mr. Küchl,
+ please tell me if you find the postal letter in the digital archive."
+
+All the paper post gets sent cross-border (from Austria to Slovakia) to the companies' 
+"nearshore cheaper labor" scanning center 
+and digital copies archived and I assume forwarded 
+by the artificial back office intelligence if it's your lucky day.
+
+
+And I end:
+
+"And, please tell me if and when I can expect an answer, statement or quip.
+Thank you. Your former 10+-year loyal servant." 
+   
+
+Nothing. Nada. Silence.
+ 
+Back in September Mr Küchl fired
+off the "You are fired!" email and sent a registered postal letter
+without calling or even sending me an email to ask
+what's going on.     The assumed cause: I didn't respond to a forwarded email within a week
+from the personnel department on the state of my working hours in the booking system.
+Now two weeks have passed and Mr. Küchl hasn't answered.
+
+
+
 To be continued...
