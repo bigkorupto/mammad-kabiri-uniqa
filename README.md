@@ -102,7 +102,7 @@ On the back channel the full-time works council employee writes back:
 In the email I typed in the letter at the end - reading:
 
     REGISTERED LETTER
-    To: UNIQA IT Services
+    To: Uniqa Software Service
 
 
 I write back:
