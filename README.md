@@ -112,7 +112,7 @@ Four month after getting fired and ten month after the office lockdown
 Mr. Mammad Kabiri hasn't called yet.
 
 How many self-directed coders sprinting the agile way in a waterfall
-software factory organization does Mr. Kabiri manage while pulling in $150 000+ per year?
+software factory organization does Mr. Kabiri manage while pulling in $200 000+ per year?
 Now seven (down one from eight).
 
 
