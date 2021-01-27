@@ -102,7 +102,7 @@ try 1-451-FARENHEIT."
 
 "One more thing - please wrap up the companies' computer and send it back to us! 
 We pay you back any expenses. You can trust us!  Bonus: For an easter egg gift wrap
-or a "Love Conquers All" card.
+or a 'Love Conquers All' card."
 
 I write back:
 
@@ -112,7 +112,7 @@ Four month after getting fired and ten month after the office lockdown
 Mr. Mammad Kabiri hasn't called yet.
 
 How many self-directed coders sprinting the agile way in a waterfall
-software factory organization does Mr. Kabiri manage while pulling in $150 000+ per year?   
+software factory organization does Mr. Kabiri manage while pulling in $150 000+ per year?
 Now seven (down one from eight).
 
 
