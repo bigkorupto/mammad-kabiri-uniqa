@@ -78,7 +78,7 @@ by the artificial back office intelligence if it's your lucky day.
 And I end:
 
 "And, please tell me if and when I can expect an answer, statement or quip.
-Thank you. Your former 10+-year loyal servant." 
+Thank you. Your former 10-year loyal servant." 
    
 
 Nothing. Nada. Silence.
@@ -89,6 +89,31 @@ without calling or even sending me an email to ask
 what's going on.     The made-up cause: I didn't respond to a forwarded email within a week
 from the personnel department on the state of my working hours in the companies' time booking system.
 Now two weeks have passed and Mr. Küchl hasn't answered (or responded to phone calls).
+
+
+  o o o
+
+"We found your letter!", Wolfgang Küchl writes back. 
+"What part of 'You are fired!' do you NOT understand? 
+The cause is just and we do NOT tell you. Of course we will NOT pay you the three-month required by law."
+
+"If you want your computer books back from the locked down office, call Mr. Mammad Kabiri to ask for a date or
+try 1-451-FARENHEIT."
+
+"One more thing - please wrap up the companies' computer and send it back to us! 
+We pay you back any expenses. You can trust us!  Bonus: For an easter egg gift wrap
+or a "Love Conquers All" card.
+
+I write back:
+
+"You can pick up the computer. Just call for a date!"
+
+Four month after getting fired and ten month after the office lockdown 
+Mr. Mammad Kabiri hasn't called yet.
+
+How many self-directed coders sprinting the agile way in a waterfall
+software factory organization does Mr. Kabiri manage while pulling in $150 000+ per year?   
+Now seven (down one from eight).
 
 
 
