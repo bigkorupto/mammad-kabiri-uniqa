@@ -46,7 +46,7 @@ Your book pick up is called off", and the call is over.
 
 Four month later (on January 20th, 2021):
 
-"I am in the home office! I have got no mail! What registered postal letter are you talking about?"
+"I am working from home! I have got no mail! What registered postal letter are you talking about?"
 
 writes back Wolfgang Küchl - the head of the personnel department.
 
