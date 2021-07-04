@@ -249,9 +249,8 @@ Three month later in October 2021 - day two of the court proceedings:
 Mammad Kabiri has been invited
 to break his year-long silence and
 tell in court why he neglected 
-his duties to support Mr. Bauer in working from home
-or to clean out his "pre-corona" desk
-in the locked-down company office tower...
+his duties to support Mr. Bauer in working from home during the corana lockdown or what's up with his five-year non-stop harassment campaign
+to get Mr Bauer to quit and resign on his own...
 
  
 To be continued...
