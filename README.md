@@ -221,14 +221,14 @@ the big korupto corporate lawyer.
 
 The judge asks "Is that all?"
 
-"One more thing!"  says the coroporte lawyer:
+"One more thing!"  says the corporate lawyer:
 
 "We ask Mr Bauer to sign that Mr Bauer will never ever again
 write anything about Mr Mammad Kabiri and Big Korupto!"
 
 The judge asks "Is that all?"
 
-"One more thing!"  says the coroporte lawyer:
+"One more thing!"  says the corporate lawyer:
  
 "As a bonus we ask for a five-minute video recording
 where Mr Bauer praises Mr Mammad Kabiri and Mr Wolfang Küchl
