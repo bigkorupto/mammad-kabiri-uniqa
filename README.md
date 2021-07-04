@@ -163,11 +163,15 @@ Nine month later (on June 8th, 2021 - 10am) - the first day at the labour court.
 
 With the legal and financial help from the Arbeiterkammer (Austrian Chamber of Labour)
 I filed a legal claim asking to  
-upholding Austrian law, that is, the three-month contract term on termination without cause
-and to get back three-month of (stolen) salary.
+uphold Austrian law, that is, the three-month contract term on termination without cause
+and to get back three-month of (stolen) salary (~$10 000).  
 
 Mr Mammad Kabiri and the personnel chief Mr Wolfgang Küchl 
 obviously do not entertain such legal nitpicking - "What part of 'You are fired!' do you NOT understand?!"
+
+Let us teach you how two "Free Enterpise!" apparatchiks in a billion dollar insurance company in no fincial distress
+pulling in salaries beyond $200 000+ per year    
+can fire a loyal employee with 10+ years of service at-will and harass you to no end! 
 
 Required by the court proceedings the big corrupto lawyers filed the answer in writing:
 
