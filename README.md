@@ -169,7 +169,7 @@ and to get back three-month of (stolen) salary (~$10 000).
 Mr Mammad Kabiri and the personnel chief Mr Wolfgang Küchl 
 obviously do not entertain such legal nitpicking - "What part of 'You are fired!' do you NOT understand?!"
 
-Let us teach you how two "Free Enterpise!" apparatchiks in a billion dollar insurance company in no fincial distress
+Let us teach you how two "Free Enterpise!" apparatchiks in a billion dollar insurance company in no financial distress
 pulling in salaries beyond $200 000+ per year    
 can fire a loyal employee with 10+ years of service at-will and harass you to no end! 
 
