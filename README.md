@@ -155,4 +155,100 @@ Mammad Kabiri's answer summed up:  Please, shut up. You can leave any time. The 
 Thank you! I canceled your room booking and workshop event!
 
 
+
+ o o o
+
+
+Nine month later (in June 2021) - the first day at the labour court.
+
+With the legal and financial help from the Arbeiterkammer (Austrian Chamber of Labour)
+I filed a legal claim to get back my three-month of stolen salary
+by not upholding Austrian law, that is, the three-month contract term on termination without cause.
+
+Mr Mammad Kabiri and the personel chief Mr Wolfgang Küchl 
+obviously do not entertain such legal nitpicking
+What about "You are fired - do you not understand?!".
+
+Required by the court proceedings the big corrupto lawyers filed the answer in writing:
+
+> Yes, big corrupto acknowledges that Mr Gerald Bauer has been employed as a code monkey at
+> our enterprise since 2009. 
+>
+> Yes, Mr Wolfgang Küchl and Mr Mammad Kabiri fired Mr Bauer in September in writing (per email
+> and per registered letter) without warning and effective immediately. 
+>
+> Hold on! Yes, Mr Wolfgang Küchl issued a warning back in February (!) before the first lockdown 
+> in writing BUT yes, Mr Mammad Kabiri never sent or told Mr Bauer or anybody else (incl.
+> the workers' council) about the warning.
+>
+
+Fired without cause? 
+
+> Yes, Mr Mammad Kabiri hasn't talked to Mr Bauer since the lockdown in March 
+> and, 
+> thus, Mr Mammad Kabiri can assure you that Mr Bauer hasn't worked at all!
+> The missing time-sheet that records all hours proves the point. No time-sheet! No hours! No work! 
+>
+> We ask the judge to throw out Mr Bauer's absurd claim of getting paid (~$10 000 for three month)
+> and terminated according to Austrian law 
+> and we reserve the right to counter file
+> to get back seven month of paid-out salary for pretenting to work from home!
+
+
+
+The proceedings open - The judge asks:
+
+Have you come up with an out of court deal to settle the case?
+
+Yes, your honor - 
+Mr Bauer accepts to get back half of the (stolen) salary (that is, ~$5 000)
+and with that we are happy to settle and withdraw the case. 
+
+Hold on! One more thing! - says
+the big korupto corporate lawyer:
+
+"We ask Mr Bauer to destroy all of his writings about this case."
+
+The judge asks: "Is that all?"
+
+"One more thing!" - says the coroporte lawyer:
+
+"We ask Mr Bauer to sign that Mr Bauer will never ever again
+write anything about Mr Mammad Kabiri and Big Korupto!"
+
+The judge asks: "Is that all?"
+
+"One more thing!" - says the coroporte lawyer:
+ 
+"As a bonus we ask for a 5-minute video recording
+where Mr Bauer praises Mr Mammad Kabiri and Mr Wolfang Küchl
+of Big Korupto as paragons on how to handle a termination
+during the corona pandemic crisis with a human touch and grace."
+
+"We might even use it in our corona pandemic ad campaign
+that runs with the tag line 
+"We care about you. In person, per phone, per internet - We are always here for you!
+[To sell you another insurance policy.]"
+
+The judge asks: "Is that a deal?"
+
+"May I suggest - Why not ask that I blow myself up?
+That way I am gone forever from the world as you wish and you do not need to trust
+that I break the silence."
+
+
+ o o o 
+ 
+
+Three month later in October 2021 - day two of the court proceedings:
+
+Mammad Kabiri has been invited
+to break his year-long silence and
+tell in court why he neglected 
+his duties to support Mr. Bauer in working from home
+or to clean out his "pre-corona" desk
+in the locked-down company office tower.
+
+ 
 To be continued...
+
