@@ -169,7 +169,8 @@ and to get back three-month of (stolen) salary (~$10 000).
 Mr Mammad Kabiri and the personnel chief Mr Wolfgang Küchl 
 obviously do not entertain such legal nitpicking - "What part of 'You are fired!' do you NOT understand?!"
 
-Let us teach you how two "Free Enterpise!" apparatchiks in a billion dollar insurance company in no financial distress
+Let us teach you about "Free Enterpise!" 
+and how two apparatchiks in a billion dollar insurance company in no financial distress
 pulling in salaries beyond $200 000+ per year    
 can fire a loyal employee with 10+ years of service at-will and harass you to no end! 
 
@@ -178,22 +179,27 @@ Required by the court proceedings the big corrupto lawyers filed the answer in w
 > Yes, big corrupto acknowledges that Mr Gerald Bauer has been employed as a code monkey at
 > our enterprise since 2009. 
 >
-> Yes, Mr Wolfgang Küchl and Mr Mammad Kabiri fired Mr Bauer on September 23rd 2020 in writing (per email
+> Yes, Mr Wolfgang Küchl - the personnel chief -  and Mr Mammad Kabiri - the employee's department manager -  
+> fired Mr Bauer on September 23rd 2020 in writing (per email
 > and per registered letter) without warning and effective immediately. 
 >
-> Hold on! Yes, Mr Wolfgang Küchl issued a warning back in February (!) before the first lockdown 
-> in writing BUT yes, Mr Mammad Kabiri never sent or told Mr Bauer or anybody else (incl.
+> Hold on! Yes, Mr Wolfgang Küchl issued a warning in writing back in February (!) before the first lockdown 
+> BUT yes, Mr Mammad Kabiri never sent or told Mr Bauer or anybody else (incl.
 > the workers' council) about the warning.
 >
 
 Fired without cause? 
 
-> Yes, Mr Mammad Kabiri hasn't talked to Mr Bauer since the lockdown in March 
+> Yes, Mr Mammad Kabiri hasn't talked to Mr Bauer since the lockdown in March
+> [on purpose - continuing the "pre-corona" Please, Leave Now! Why Are You Still Here?! harassment campaign]  
 > and, 
 > thus, Mr Mammad Kabiri can assure you that Mr Bauer hasn't worked at all!
-> The missing time-sheet that records all hours proves the point. No time-sheet! No hours! No work! 
+> The missing time-sheet that records all hours proves the point. No time-sheet! No hours! No work!
+> 
+> [Why ask Mr Bauer's the day-to-day product manager [from a different department]?
+> Obviously, Mr Mammad Kabiri is the only official and formal manager that counts. Full stop.]  
 >
-> We ask the judge to throw out Mr Bauer's absurd claim of getting terminated
+> We ask the judge to uphold Free Enterpise! and throw out Mr Bauer's absurd claim of getting terminated
 > according to Austrian law and getting paid (~$10 000 for three month).
 > We reserve the right to counter file
 > to get back seven month of paid-out salary for pretenting to work from home!
