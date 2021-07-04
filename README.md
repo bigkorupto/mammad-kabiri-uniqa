@@ -227,7 +227,7 @@ during the corona pandemic crisis."
 
 "We might even use it in our corona pandemic ad campaign
 that runs with the tag line 
-"We care about you. In person, per phone, per internet - We are always here for you!
+"We care about you. In person, per phone, per internet - We are always near and here for you!
 [To sell you another insurance policy.]"
 
 The judge asks "Is that a deal?"
