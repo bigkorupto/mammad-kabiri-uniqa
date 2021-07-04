@@ -201,7 +201,7 @@ The proceedings open - The judge asks:
 "Have you come up with an out of court deal to settle the case?"
 
 "Yes, your honor - 
-Mr Bauer accepts to get back half of the (stolen) salary (that is, ~$5 000)
+Mr Bauer accepts to get back half of the (stolen) three-month salary (that is, ~$5 000)
 and with that we are happy to settle and withdraw the case." 
 
 "Hold on! One more thing!" says
