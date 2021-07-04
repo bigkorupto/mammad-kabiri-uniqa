@@ -162,7 +162,7 @@ Thank you! I canceled your room booking and workshop event!
 Nine month later (on June 8th, 2021 - 10am) - the first day at the labour court.
 
 With the legal and financial help from the Arbeiterkammer (Austrian Chamber of Labour)
-I filed a legal claim to ask to  
+I filed a legal claim asking to  
 upholding Austrian law, that is, the three-month contract term on termination without cause
 and to get back three-month of (stolen) salary.
 
@@ -247,7 +247,7 @@ to break his year-long silence and
 tell in court why he neglected 
 his duties to support Mr. Bauer in working from home
 or to clean out his "pre-corona" desk
-in the locked-down company office tower.
+in the locked-down company office tower...
 
  
 To be continued...
