@@ -196,7 +196,7 @@ Fired without cause?
 > thus, Mr Mammad Kabiri can assure you that Mr Bauer hasn't worked at all!
 > The missing time-sheet that records all hours proves the point. No time-sheet! No hours! No work!
 > 
-> [Why ask Mr Bauer's the day-to-day product manager [from a different department]?
+> [Why ask Mr Bauer's day-to-day product manager [from a different department]?
 > Obviously, Mr Mammad Kabiri is the only official and formal manager that counts. Full stop.]  
 >
 > We ask the judge to uphold Free Enterpise! and throw out Mr Bauer's absurd claim of getting terminated
