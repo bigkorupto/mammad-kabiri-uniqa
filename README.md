@@ -191,9 +191,9 @@ Required by the court proceedings the big corrupto lawyers filed the answer in w
 Fired without cause? 
 
 > Yes, Mr Mammad Kabiri hasn't talked to Mr Bauer since the lockdown in March
-> [on purpose - continuing the "pre-corona" Please, Leave Now! Why Are You Still Here?! harassment campaign]  
+> [on purpose - continuing the "pre-corona" Please, Leave Now! Why Are You Still Here?! passive-aggressive harassment campaign]  
 > and, 
-> thus, Mr Mammad Kabiri can assure you that Mr Bauer hasn't worked at all!
+> thus, Mr Mammad Kabiri can tell you that Mr Bauer hasn't worked at all!
 > The missing time-sheet that records all hours proves the point. No time-sheet! No hours! No work!
 > 
 > [Why ask Mr Bauer's day-to-day product manager [from a different department]?
@@ -255,7 +255,7 @@ Three month later in October 2021 - day two of the court proceedings:
 Mammad Kabiri has been invited
 to break his year-long silence and
 tell in court why he neglected 
-his duties to support Mr. Bauer in working from home during the corana lockdown or what's up with his five-year non-stop harassment campaign
+his duties to support Mr. Bauer in working from home during the corana lockdown or what's up with his five-year non-stop passive-aggressive harassment campaign
 to get Mr Bauer to quit and resign on his own...
 
  
